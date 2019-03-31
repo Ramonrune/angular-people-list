@@ -1,0 +1,2 @@
+# angular-people-list
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/57a0fba1cf314aab9d4b751effe5fca8)](https://app.codacy.com/app/Ramonrune/angular-people-list?utm_source=github.com&utm_medium=referral&utm_content=Ramonrune/angular-people-list&utm_campaign=Badge_Grade_Dashboard)
