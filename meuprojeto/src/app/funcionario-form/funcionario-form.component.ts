@@ -6,6 +6,9 @@ import { Component, OnInit, Output , EventEmitter} from '@angular/core';
   styleUrls: ['./funcionario-form.component.css']
 })
 export class FuncionarioFormComponent {
+
+  red = 'yellow';
+
   ultimoId = 0;
   nome = 'Ramon';
   adicionado = false;
